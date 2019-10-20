@@ -5,6 +5,9 @@
       location = "container:"
       name = "IBDesignable &amp; IBInspectable">
       <FileRef
+         location = "group:StackViewExample/StackViewExample.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:IBDesignable/IBDesignable/IBDesignable.xcodeproj">
       </FileRef>
    </Group>
